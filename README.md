@@ -1,27 +1,40 @@
-# 🛠️ C Programming Project Showcase
+# 👋 Hi there, I'm Radhika Gupta!
 
-Welcome to my C Programming repository! This repository contains two fully functional console-based applications demonstrating logic, control structures, and clean code formatting in C.
-
----
-
-## 1. 🖥️ CLI Utility Toolkit (`CLI_UTILITY_TOOLKIT.c`)
-A comprehensive Command Line Interface toolkit packed with handy everyday utilities.
-* **Key Features:**
-  * 🔢 **Mathematical Tools:** Quick operations like finding maximum/minimum numbers and factorials.
-  * ⚖️ **Data Checks:** Check if a given number is Even or Odd instantly.
-  * 🔄 **Interactive Menu:** Driven by a smooth `do-while` loop and `switch-case` architecture.
-
-## 🎬 2. Film Rating Analyzer (`Film_Rating_Analyzer.c`)
-An interactive project designed to take user feedback and analyze movie ratings.
-* **Key Features:**
-  * 🌟 **Rating Input:** Accepts clean user inputs for film scores.
-  * 📊 **Categorization:** Classifies and filters movies based on pre-defined rating brackets.
+An enthusiastic C Developer passionate about solving problems, optimization, and building clean, efficient command-line software. Welcome to my open-source space!
 
 ---
 
-## 🚀 How to Run Locally
-To run any of these projects on your machine, clone this repository and compile using GCC:
-```bash
-gcc CLI_UTILITY_TOOLKIT.c -o toolkit
-./toolkit
-```
+## 🛠️ Tech Stack & Tools
+* **Languages:** C (C99/C11), Bash
+* **Developer Tools:** VS Code, Git, GitHub, GCC Compiler
+* **Operating Systems:** Windows / Linux
+
+---
+
+## 🚀 Featured Projects
+
+Here are some of the key C projects I've built to explore algorithms, data handling, and utility software:
+
+### 🧰 1. CLI Utility Toolkit
+A multi-purpose command-line suite designed to handle everyday development tasks efficiently. 
+* **Key Focus:** Modular design, structured menus, and seamless user interaction in terminal.
+
+### 📊 2. Array Statistics Tool
+A lightweight analyzer to compute mathematical insights from data arrays.
+* **Key Focus:** Algorithm efficiency, finding bounds (Min/Max), and floating-point average computations.
+
+### 🎬 3. Film Rating Analyzer
+A data-driven C application built to process and evaluate movie reviews and ratings datasets.
+* **Key Focus:** File I/O handling, data sorting, structure implementation, and string manipulation.
+
+---
+
+## 📈 My GitHub Stats
+*⚡ Fun fact: The best code is the code that is clean, readable, and fast.*
+
+---
+
+## 🤝 Connect with Me
+* 💼 **LinkedIn:** https://www.linkedin.com/in/radhika-gupta-8b52b439a
+* 📧 **Email:** radhikagupta130807@gmail.com
+*
